@@ -1,6 +1,6 @@
 
-<a href="https://sites.google.com/site/berkasagexcel/home/Fungsi%20terbilang.zip" target="_blank">Jika ingin mengunduh file excel silahkan klik disini</a>
-<hr/>
+Jika ingin mengunduh file excel silahkan buka tautan berikut ini :  https://sites.google.com/site/berkasagexcel/home/Fungsi%20terbilang.zip 
+====================================================================================================================================
 
 'Fungsi penterjemahan masing-masing angka
 Private Function KeKata(Nomor)
