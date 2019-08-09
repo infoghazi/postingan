@@ -1,3 +1,7 @@
+
+<a href="https://sites.google.com/site/berkasagexcel/home/Fungsi%20terbilang.zip" target="_blank">Jika ingin mengunduh file excel silahkan klik disini</a>
+<hr/>
+
 'Fungsi penterjemahan masing-masing angka
 Private Function KeKata(Nomor)
 TrjKata = Array("", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan")
